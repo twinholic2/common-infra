@@ -66,6 +66,9 @@ variable "env" {
 #     type = bool
 # }
 
+
+
+
 variable "subnet_cidr_map" {
  type = map
     default = {
