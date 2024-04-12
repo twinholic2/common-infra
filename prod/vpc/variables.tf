@@ -46,8 +46,6 @@ variable "env" {
     type = string
 }
 
-
-
 # variable "private_db_subnet_prefix" {
 #     default = "prod-db"
 #     type = string
