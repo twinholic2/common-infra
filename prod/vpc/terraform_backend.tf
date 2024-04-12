@@ -5,7 +5,7 @@ terraform {
     organization = "osh-project"
 
     workspaces {
-      name = "vpc-infra_prod_vpc"
+      name = "common-infra_prod_vpc"
     }
   }
 }
