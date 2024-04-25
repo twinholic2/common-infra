@@ -68,7 +68,7 @@ variable "env" {
 
 
 
-#subnet 주소 범위
+#subnet 주소 범위 설정
 variable "subnet_cidr_map" {
  type = map
     default = {
